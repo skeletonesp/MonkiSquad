@@ -1,1 +1,1 @@
-WW<3
+local ms_k = "WW<3"
