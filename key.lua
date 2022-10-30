@@ -1,1 +1,2 @@
-print("e")
+local key = "WW"
+print(key)
