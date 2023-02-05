@@ -19,7 +19,7 @@ Currently supported games:
 | :------------ |:---------------:| -----:| -----:|
 | Anomic      | SUPPORTED | 2.0 | ❌ PATCHED |
 | Brzesko RP      | V1 Discontinued, waiting for V2       |   2.0 | ⚠️ |
-| Pet Simulator X | WIP        |    3.0 | ❔ |
+| Pet Simulator X | WIP        |    2.5 | ❔ |
 | Doors | WIP        |    2.5 | ❔ |
 
 ## Not supported?
