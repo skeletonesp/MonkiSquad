@@ -21,10 +21,10 @@ Currently supported games:
 | The Maze | SUPPORTED | 2.5 | ✅ |
 | Da Hood | WIP | 2.5 | ❔ |
 | Anomic      | SUPPORTED | 2.0 | ❌ PATCHED |
-| Brzesko RP      | Brzesko V1 Closed, waiting for V2       |   2.0 | ⚠️ Temporarily disabled |
 | Pet Simulator X | WIP        |    2.5 | ❔ |
 | Doors | WIP        |    2.5 | ❔ |
 | Jailbreak | WIP        |    2.5 | ❔ |
+| Brzesko RP      | Brzesko V1 Closed, waiting for V2       |   2.0 | ⚠️ Temporarily disabled |
 
 ## Not supported?
 Don't worry! If your favorite game isn't here, we have a universal script that is executed when you are on an unsupported game.
