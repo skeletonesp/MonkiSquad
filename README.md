@@ -19,7 +19,7 @@ Currently supported games:
 | :------------ |:---------------:| -----:| -----:|
 | The Rake: Remastered | SUPPORTED | 2.5 | ✅ |
 | Anomic      | SUPPORTED | 2.0 | ❌ PATCHED |
-| Brzesko RP      | V1 Discontinued, waiting for V2       |   2.0 | ⚠️ Temporarily disabled |
+| Brzesko RP      | Brzesko V1 Discontinued, waiting for V2       |   2.0 | ⚠️ Temporarily disabled |
 | Pet Simulator X | WIP        |    2.5 | ❔ |
 | Doors | WIP        |    2.5 | ❔ |
 | Jailbreak | WIP        |    2.5 | ❔ |
