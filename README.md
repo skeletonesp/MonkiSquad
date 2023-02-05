@@ -21,6 +21,7 @@ Currently supported games:
 | Brzesko RP      | V1 Discontinued, waiting for V2       |   2.0 | ⚠️ |
 | Pet Simulator X | WIP        |    2.5 | ❔ |
 | Doors | WIP        |    2.5 | ❔ |
+| Jailbreak | WIP        |    2.5 | ❔ |
 
 ## Not supported?
 Don't worry! If your favorite game isn't here, we have a universal script that is executed when you are on an unsupported game.
