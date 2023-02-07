@@ -20,11 +20,18 @@ Currently supported games:
 | The Rake: Remastered | SUPPORTED | 2.5 | ✅ |
 | The Maze | SUPPORTED | 2.5 | ✅ |
 | Da Hood | CLOSED BETA, LAST TESTS | 2.5 | ❔ |
-| Anomic      | TEMPORARILY UNSUPPORTED | 2.0 | ❌ PATCHED | 2.5 Migration
+| Anomic      | TEMPORARILY UNSUPPORTED | 2.0 | ❌ PATCHED |
 | Pet Simulator X | WIP        |    2.5 | ❔ |
 | Doors | WIP        |    2.5 | ❔ |
 | Jailbreak | WIP        |    2.5 | ❔ |
 | Brzesko RP      | Brzesko V1 Closed, waiting for V2       |   2.0 | ⚠️ Temporarily disabled |
+
+Planned changes:
+| Game  | Changes | Completion status |
+| :------------ |:---------------:| -----:|
+| Da Hood | Silent Aim implementation | ⚠️ WIP |
+| Anomic | 2.0 -> 2.5 Migration | ❌ |
+(sorted by priority)
 
 ## Not supported?
 Don't worry! If your favorite game isn't here, we have a universal script that is executed when you are on an unsupported game.
