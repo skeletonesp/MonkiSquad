@@ -26,13 +26,6 @@ Currently supported games:
 | Jailbreak | WIP        |    2.5 | ❔ |
 | Brzesko RP      | Brzesko V1 Closed, waiting for V2       |   2.0 | ⚠️ Temporarily disabled |
 
-Planned changes:
-| Game  | Changes | Completion status |
-| :------------ |:---------------:| -----:|
-| Da Hood | Silent Aim implementation | ⚠️ WIP |
-| Anomic | 2.0 -> 2.5 Migration | ❌ |
-(sorted by priority)
-
 ## Not supported?
 Don't worry! If your favorite game isn't here, we have a universal script that is executed when you are on an unsupported game.
 You can report your game for us, we will definitely be interested in it
