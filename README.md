@@ -19,7 +19,7 @@ Currently supported games:
 | :------------ |:---------------:| -----:| -----:|
 | The Rake: Remastered | SUPPORTED | 2.5 | ✅ |
 | The Maze | SUPPORTED | 2.5 | ✅ |
-| Da Hood | CLOSED BETA | 2.5 | ❔ |
+| Da Hood | CLOSED BETA, LAST TESTS | 2.5 | ❔ |
 | Anomic      | SUPPORTED | 2.0 | ❌ PATCHED |
 | Pet Simulator X | WIP        |    2.5 | ❔ |
 | Doors | WIP        |    2.5 | ❔ |
