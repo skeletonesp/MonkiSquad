@@ -4,8 +4,8 @@
 | SCRIPT VERSION  | Status  | Release Date | Last Update | Ending Service | Notes |
 | :------------ |:---------------:| -----:| -----:| -----:| -----:|
 | 1.0      | ❌ DISCONTIUNED, NOT SUPPORTED | 27.10.22 | 28.10.22 | 08.12.22||
-| 2.0      | ✅ SUPPORTED (STABLE RELEASE)      |   28.10.22 | 01.11.22 |  ||
-| 2.5     | ✅ SUPPORTED (BETA RELEASE)      |   01.11.22 | 05.02.23 ||||
+| 2.0      | ✅ SUPPORTED (STABLE RELEASE)      |   28.10.22 | 08.02.22 |  ||
+| 2.5     | ✅ SUPPORTED (BETA RELEASE)      |   01.11.22 | 08.02.23 ||||
 ## Information
 
 
