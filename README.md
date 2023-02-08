@@ -20,12 +20,19 @@ Currently supported games:
 | The Rake: Remastered | SUPPORTED | 2.5 | ✅ |
 | The Maze | SUPPORTED | 2.5 | ✅ |
 | Da Hood | CLOSED BETA, LAST TESTS | 2.5 | ❔ |
-| Anomic      | TEMPORARILY UNSUPPORTED | 2.0 | ❌ PATCHED |
+| Anomic | SUPPORTED | 2.0 | ✅ |
+| Anomic 2| WIP | 2.5 | ❔ |
 | Pet Simulator X | WIP        |    2.5 | ❔ |
 | Doors | WIP        |    2.5 | ❔ |
 | Jailbreak | WIP        |    2.5 | ❔ |
 | Brzesko RP      | Brzesko V1 Closed, waiting for V2       |   2.0 | ⚠️ Temporarily disabled |
 
+Latest changes:
+
+| Game  | Notes  | Date |
+| :------------ |:---------------:| :---------------: |
+| Monki Hub | New encrypting method | 08.02.23 |
+| Anomic | 2.0 Security upgrade | 08.02.23 |
 ## Not supported?
 Don't worry! If your favorite game isn't here, we have a universal script that is executed when you are on an unsupported game.
 You can report your game for us, we will definitely be interested in it
