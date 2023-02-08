@@ -31,6 +31,7 @@ Latest changes:
 
 | Game  | Notes  | Date |
 | :------------ |:---------------:| :---------------: |
+| Da Hood | First official closed beta release | 08.02.23 |
 | Monki Hub | New encrypting method | 08.02.23 |
 | Anomic | 2.0 Security upgrade | 08.02.23 |
 ## Not supported?
