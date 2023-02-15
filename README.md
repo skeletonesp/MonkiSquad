@@ -32,7 +32,8 @@ Latest changes:
 
 | Game  | Notes  | Date | Version |
 | :------------ |:---------------:| :---------------: | :---------------: |
-| Da Hood | First official closed beta release | 08.02.23 | 2518 |
+| Da Hood / Da Hood Modded | First official stable release | 15.02.23 | 2520 |
+| Da Hood / Da Hood Modded | First official closed beta release | 08.02.23 | 2518 |
 | Monki Hub | New encrypting method | 08.02.23 | 2518 |
 | Anomic | 2.0 Security upgrade | 08.02.23 | 2518 |
 ## Not supported?
