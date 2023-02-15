@@ -26,7 +26,7 @@ Currently supported games:
 | Pet Simulator X | WIP        |    2.5 | ❔ |
 | Doors | WIP        |    2.5 | ❔ |
 | Jailbreak | WIP        |    2.5 | ❔ |
-| ~~Brzesko RP      | Brzesko V1 Closed, waiting for V2       |   2.0 | ⚠️ Temporarily disabled |
+| ~~Brzesko RP~~      | Brzesko V1 Closed, waiting for V2       |   2.0 | ⚠️ Temporarily disabled |
 
 Latest changes:
 
