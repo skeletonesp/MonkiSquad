@@ -29,11 +29,11 @@ Currently supported games:
 
 Latest changes:
 
-| Game  | Notes  | Date |
-| :------------ |:---------------:| :---------------: |
-| Da Hood | First official closed beta release | 08.02.23 |
-| Monki Hub | New encrypting method | 08.02.23 |
-| Anomic | 2.0 Security upgrade | 08.02.23 |
+| Game  | Notes  | Date | Version |
+| :------------ |:---------------:| :---------------: | :---------------: |
+| Da Hood | First official closed beta release | 08.02.23 | 2518 |
+| Monki Hub | New encrypting method | 08.02.23 | 2518 |
+| Anomic | 2.0 Security upgrade | 08.02.23 | 2518 |
 ## Not supported?
 Don't worry! If your favorite game isn't here, we have a universal script that is executed when you are on an unsupported game.
 You can report your game for us, we will definitely be interested in it
