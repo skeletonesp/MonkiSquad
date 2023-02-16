@@ -1,3 +1,2 @@
-local data = {}
-data.compilation =  "16.02.2023"
-return data
+local compilation =  "16.02.2023"
+
