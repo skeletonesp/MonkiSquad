@@ -22,6 +22,7 @@ Currently supported games:
 | The Maze | SUPPORTED | 2.5 | ✅ SAFE |
 | Da Hood / Da Hood Modded | SUPPORTED | 2.5 | ✅ SAFE |
 | Anomic | SUPPORTED | 2.0 | ✅ SAFE |
+| OpoleRP | IN DEVELOPMENT | 2.5 | ❔ |
 | ~~Brzesko RP~~      | Brzesko V1 Closed, waiting for V2       |   2.0 | ⚠️ Temporarily disabled |
 
 Latest changes:
